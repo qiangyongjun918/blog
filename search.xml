@@ -24,7 +24,7 @@
 <h3 id="server-to-combination"><a href="#server-to-combination" class="headerlink" title="server to combination"></a>server to combination</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo clean &amp;&amp; hexo s --debug -p 5555</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-<h3 id="Deploy-to-combination"><a href="#Deploy-to-combination" class="headerlink" title="Deploy to combination"></a>Deploy to combination</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
+<h3 id="Deploy-to-combination"><a href="#Deploy-to-combination" class="headerlink" title="Deploy to combination"></a>Deploy to combination</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-deployer-git  --save</span><br><span class="line">$ hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
