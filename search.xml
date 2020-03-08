@@ -1,17 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test文章</title>
-    <url>/blog/2020/03/07/test%E6%96%87%E7%AB%A0/</url>
+    <title>hexo 基本操作</title>
+    <url>/blog/2020/03/08/hexo-%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</url>
+    <content><![CDATA[<p>Hexo 框架可以帮助我们快速创建一个属于自己的博客网站，熟悉 Hexo 框架提供的命令有利于我们管理博客</p>
+<a id="more"></a>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-blog"><a href="#Create-a-new-blog" class="headerlink" title="Create a new blog"></a>Create a new blog</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo init <span class="string">"folder"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<h3 id="server-to-combination"><a href="#server-to-combination" class="headerlink" title="server to combination"></a>server to combination</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo clean &amp;&amp; hexo s --debug -p 5555</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<h3 id="Deploy-to-combination"><a href="#Deploy-to-combination" class="headerlink" title="Deploy to combination"></a>Deploy to combination</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>other</title>
+    <url>/blog/2020/03/07/other/</url>
     <content><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><h2 id="test-1"><a href="#test-1" class="headerlink" title="test"></a>test</h2><h3 id="test-2"><a href="#test-2" class="headerlink" title="test"></a>test</h3><h4 id="test-3"><a href="#test-3" class="headerlink" title="test"></a>test</h4><p>vdhgfiof dagoia giofad ghoadfip h ghapfghdfioahgapdfghafpghadfpg ha<br>fgjsdaiofg hafdpg </p>
 ]]></content>
       <categories>
-        <category>categories1</category>
-        <category>categories2</category>
+        <category>html</category>
+        <category>css</category>
+        <category>js</category>
+        <category>other</category>
       </categories>
       <tags>
-        <tag>tags1</tag>
-        <tag>tags2</tag>
+        <tag>html</tag>
+        <tag>css</tag>
+        <tag>js</tag>
+        <tag>other</tag>
       </tags>
   </entry>
   <entry>
