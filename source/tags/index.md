@@ -6,6 +6,10 @@ tags:
 - html
 - css
 - js
+- vue
+- vuex
+- vue-router
+- vue-ssr
 - hexo
 - other
 ---
